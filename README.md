@@ -2,6 +2,10 @@
 
 Java web application for managing events, groups, invitations, notifications, and role-based access in a single system. The project is built with Servlets, JSP, JDBC, MySQL, Maven, and Apache Tomcat.
 
+## Demo
+
+Demo Video: https://drive.google.com/file/d/1oPxPWxhUoxwpI5sAtu4OXRZRC98aC_nu/view?usp=sharing
+
 ## Highlights
 
 - User registration, login, logout, and session-based authentication
