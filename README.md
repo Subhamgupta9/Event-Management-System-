@@ -295,23 +295,6 @@ Generated output:
 target/event-management-system.war
 ```
 
-## Viva Points
-
-1. Why is Servlet used?
-   Servlet handles HTTP requests and responses on the server side.
-
-2. Why use DAO pattern?
-   DAO keeps database logic separate from business/request handling logic.
-
-3. Why is session management needed?
-   It keeps user login information available across multiple pages.
-
-4. Why is password hashed?
-   To avoid storing plain text passwords directly in the database.
-
-5. What is the role of JDBC?
-   JDBC connects Java code to the MySQL database.
-
 ## Important Files
 
 - `database/schema.sql`
