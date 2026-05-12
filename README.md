@@ -311,7 +311,6 @@ target/event-management-system.war
 
 5. What is the role of JDBC?
    JDBC connects Java code to the MySQL database.
-
 ## Important Files
 
 - `database/schema.sql`
